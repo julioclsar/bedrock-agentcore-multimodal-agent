@@ -1,0 +1,5 @@
+bedrock-agentcore
+bedrock-agentcore-starter-toolkit
+strands-agents
+boto3
+streamlit
